@@ -10,12 +10,12 @@ npm install @increments/qiita-logo
 ## Usage
 
 ```js
-import { qiita } from "@increments/qiita-logo"
+import { qiitaLogo } from "@increments/qiita-logo"
 
 const QiitaLogo = () =>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="{qiita.viewBox}">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="{qiitaLogo.viewBox}">
     <title>Qiita</title>
-    <path d="{qiita.path}"/>
+    <path d="{qiitaLogo.path}"/>
   </svg>
 ```
 
