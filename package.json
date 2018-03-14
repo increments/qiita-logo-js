@@ -1,0 +1,17 @@
+{
+  "name": "@increments/qiita-logo",
+  "version": "0.1.0",
+  "description": "Qiita Logo",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/increments/qiita-logo-js.git"
+  },
+  "author": "Yuku Takahashi",
+  "bugs": {
+    "url": "https://github.com/increments/qiita-logo-js/issues"
+  },
+  "homepage": "https://github.com/increments/qiita-logo-js#readme"
+}
